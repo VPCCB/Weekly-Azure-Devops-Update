@@ -71,7 +71,7 @@ The skill saves your preferences in Claude's memory:
 
 | Setting | Description | Example |
 |---|---|---|
-| `default_project` | Your ADO project name | `O365 Core` |
+| `default_project` | Your ADO project name | `New Feature` |
 | `default_query_id` | Your ADO query GUID | `040018a6-...` |
 | `work_item_types` | Work item types to update | `Key Result, User Story` |
 
