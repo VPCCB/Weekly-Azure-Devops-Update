@@ -29,8 +29,8 @@ All updates are **name-free** and **date-free** within the paragraph — the hea
 
 This skill requires the following MCP tools to be configured in your Claude Code environment:
 
-- 🔧 **Azure DevOps MCP** — for reading and writing work items and comments
-- 🔧 **WorkIQ MCP** — for querying M365 data (emails, chats, meetings, files)
+- 🔧 **Azure DevOps MCP** — https://github.com/microsoft/azure-devops-mcp
+- 🔧 **WorkIQ MCP** — https://github.com/microsoft/work-iq-mcp
 
 ## 📦 Installation
 
