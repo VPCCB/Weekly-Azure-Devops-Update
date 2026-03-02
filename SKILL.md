@@ -100,13 +100,16 @@ Where:
 Examples:
 ```
 Week Feb 28 – Mar 4:
-Update: PR #4914867 for NegativeToneEmailAtMention was approved and merged to master, advancing from "in review" last week. The signal is estimated to ship in build 1.0.3673.0. Reviewer feedback was addressed, scenario naming was aligned for long-term extensibility, and all required reviewer groups approved the change.
+Update: PR #1234 was approved and merged to master, advancing from "in review"
+last update. Reviewer feedback was addressed, naming was aligned for long-term
+extensibility, and all required reviewer groups approved the change.
 ```
 
 If run again later in the same week:
 ```
 Week Mar 5 – Mar 7:
-Update: Signal onboarding progressed with the dataplane PR passing validation. The onboarding form was submitted and portal issues were resolved.
+Update: Feature onboarding progressed with the validation PR passing checks.
+The onboarding form was submitted and portal issues were resolved.
 ```
 
 ### Step 7: Confirm and Post to ADO

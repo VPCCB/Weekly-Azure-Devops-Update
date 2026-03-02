@@ -71,8 +71,8 @@ The skill saves your preferences in Claude's memory:
 
 | Setting | Description | Example |
 |---|---|---|
-| `default_project` | Your ADO project name | `New Feature` |
-| `default_query_id` | Your ADO query GUID | `040018a6-...` |
+| `default_project` | Your ADO project name | `My Project` |
+| `default_query_id` | Your ADO query GUID | `a1b2c3d4-...` |
 | `work_item_types` | Work item types to update | `Key Result, User Story` |
 
 To change any setting, just tell the skill (e.g., "also include Tasks in my updates").
